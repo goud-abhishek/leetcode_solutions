@@ -1,7 +1,4 @@
 # Write your MySQL query statement below
-
-
-
-select email 
-from person 
-where id = (select distinct dense_rank() over( partition by email) as ranking from person );
+select DISTINCT p1.email from person p1 
+ join person p2
+on p1.id<>p2.id and p1.email=p2.email ; 
