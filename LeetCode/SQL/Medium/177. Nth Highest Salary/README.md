@@ -1,6 +1,6 @@
 # 📝 177. Nth Highest Salary (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/nth-highest-salary/solutions/6624765/unlock-sql-salary-ranking-master-the-off-d41v/)
+🔗 [Problem Link](https://leetcode.com/problems/nth-highest-salary/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
