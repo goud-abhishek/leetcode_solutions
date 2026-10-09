@@ -5,6 +5,6 @@ BEGIN
       SELECT DISTINCT salary
       from employee
       order by salary 
-      limit 1  OFFSET 1) 
+      limit 1  OFFSET 1
   );
 END
