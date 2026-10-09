@@ -1,6 +1,6 @@
 # 📝 178. Rank Scores (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/rank-scores)
+🔗 [Problem Link](https://leetcode.com/problems/rank-scores/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
